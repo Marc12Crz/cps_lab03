@@ -1,0 +1,38 @@
+Index: src/main/java/pe/edu/tecsup/lab03/repositories/StudentController.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/pe/edu/tecsup/lab03/repositories/StudentController.java b/src/main/java/pe/edu/tecsup/lab03/repositories/StudentController.java
+new file mode 100644
+--- /dev/null	(date 1725479918407)
++++ b/src/main/java/pe/edu/tecsup/lab03/repositories/StudentController.java	(date 1725479918407)
+@@ -0,0 +1,4 @@
++package pe.edu.tecsup.lab03.repositories;
++
++public class StudentController {
++}
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_4_09_2024_14_58_[Changes]/shelved.patch
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_4_09_2024_14_58_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Update_at_4_09_2024_14_58_[Changes]/shelved.patch
+new file mode 100644
+--- /dev/null	(date 1725479917784)
++++ b/.idea/shelf/Uncommitted_changes_before_Update_at_4_09_2024_14_58_[Changes]/shelved.patch	(date 1725479917784)
+@@ -0,0 +1,14 @@
++Index: src/main/java/pe/edu/tecsup/lab03/repositories/StudentController.java
++IDEA additional info:
++Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
++<+>UTF-8
++===================================================================
++diff --git a/src/main/java/pe/edu/tecsup/lab03/repositories/StudentController.java b/src/main/java/pe/edu/tecsup/lab03/repositories/StudentController.java
++new file mode 100644
++--- /dev/null	(date 1725479259001)
+++++ b/src/main/java/pe/edu/tecsup/lab03/repositories/StudentController.java	(date 1725479259001)
++@@ -0,0 +1,4 @@
+++package pe.edu.tecsup.lab03.repositories;
+++
+++public class StudentController {
+++}
